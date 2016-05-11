@@ -1,0 +1,31 @@
+{
+    "name": "arcadia/flarum-ext-bilibili-embed",
+    "description": "Embed bilibili content in your Flarum.",
+    "type": "flarum-extension",
+    "keywords": ["flarum","embed","video","bilibili"],
+    "version": "0.1.1",
+    "author": [
+        {
+ 	    "name": "Arcadia",
+            "email": "Arcadia822@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+	"flarum/core": "^0.1.0-beta.5"
+    },
+    "support": {
+	"source": "https://github.com/arcadia822/flarum-ext-bilibili-embed",
+	"issues": "https://github.com/arcadia822/flarum-ext-bilibili-embed/issues"
+    },
+    "extra": {
+	"flarum-extension": {
+	    "title": "Bilibili Embed",
+	    "icon": {
+		"name": "icon.svg",
+		"backgroundColor": "#0066ff",
+		"color": "fff"
+	    }
+	}
+    }
+}
