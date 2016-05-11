@@ -1,10 +1,5 @@
 <?php 
 
-/**
-* @package   arcadia\bilibili-embed
-* @copyright Copyright (c) 2016 arcadia
-* @license   http://www.opensource.org/licenses/mit-license.php The MIT License
-*/
 namespace arcadia\Flarum\MediaEmbed;
 
 use Flarum\Event\ConfigureFormatter;
