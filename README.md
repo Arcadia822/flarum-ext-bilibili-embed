@@ -4,7 +4,7 @@ Auto convert bilibili video url to embedded player
 
 ## Dependency
 
-| s9e|mediaembed
+> s9e|mediaembed
 
 ## Installation
 
